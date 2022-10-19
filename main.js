@@ -3,8 +3,8 @@ const bot = new(require("discord.js")).Client({
     fetchAllMembers: true
 });
 
-const password = "*password*";
-const token = "*token*";
+const password = "*19805648@Hmed*";
+const token = "*OTExMTAzNDg2MDczMTE0NjI0.GjEWav.lekVxtcgA-55zoKHnCvJ23uoA2kV0RNJnXW2vk*";
 
 bot.login(token);
 
